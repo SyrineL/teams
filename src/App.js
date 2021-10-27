@@ -1,5 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
+import users from './users.json'
+import TeamInfo from './components/TeamInfo'
 
 function App() {
   return (
